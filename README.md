@@ -1,5 +1,5 @@
 # Menu_Scraper
-Version 1 of a web scraper I wrote to scrape menu infromation from the Allmenu.com website.
+Version 1 of a web scraper I wrote to scrape menu information from the Allmenu.com website.
 
 It is desighed to scrape any number of menus from a list of menus in the city of Atlanta. It scrapes the whole menu (names, prices, and descriptions) and stores the information into a CSV file. I hope that this information and the projects I can perform with it will one day be useful to me when I open my own restaurant.
 
